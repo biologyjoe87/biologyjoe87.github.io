@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Population Biologist aiming to understand the law of ecology and evolution through mathematical and computational tools"
+title: "Population Biologist studying ecology and evolution through a mathematical and computational lens"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
