@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**About me**
+I am a first-year Population Biology PhD Student at the University of California, Davis. I am a member of the Dynamics of Ecological and Evolutionary Processes Lab, led by Sebastian Schreiber. 
 
-deez nuts
+I completed my undergraduate education at the College of Charleston Honors College in 2022 with a B.S. in Mathematics and B.A. in Biology. In the Fall of 2022, I began my PhD at the University of California, Davis in Population Biology. 
 
+My current research interests lie in understanding processes in Ecology, Evolution, and Conservation Biology using mathematical and computational methods. I enjoy thinking about topics like community assembly, Modern Coexistence Theory, and Community Viability Analysis using mathematical methods such as dynamical systems, stochastic processes, and network theory. 
